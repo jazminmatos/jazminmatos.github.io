@@ -1,11 +1,11 @@
 # Site settings
-author: Jazmin Matos
-title: 
+author: Jazmin
+title: Jazmin's Blog
 header-img: img/home-bg.png
 email: jmatos1993@gmail.com
-copyright_name: Jazmin Matos
+copyright_name: Jazmin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learn about Jazmin's Flatiron journey!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jazminmatos
